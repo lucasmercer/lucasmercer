@@ -4,11 +4,13 @@
     
      🔥 Desenvolvedor Web
   
-     📚 Estou cursando Gestão em Tecnologia da Informação. Sou formado em vários cursos profissionalizantes Microlins, fiz alguns projetos individuais e em equipe, inclusive atuando como suporte técnico.
+     📚 Estou cursando Gestão em Tecnologia da Informação. Sou formado em vários cursos profissionalizantes Microlins,
+           fiz alguns projetos individuais e em equipe, inclusive atuando como suporte técnico.
 
      🧠 O caminho para a melhoria começa com o desejo de crescer, a coragem de mudar e a perseverança para seguir adiante.
 
-     👨‍🎓 Seu potencial é ilimitado, e como você continua a se aprimorar e a crescer, estou confiante de que seu impacto será notável e duradouro.
+     👨‍🎓 Seu potencial é ilimitado, e como você continua a se aprimorar e a crescer,
+          estou confiante de que seu impacto será notável e duradouro.
 
   </p>
 
