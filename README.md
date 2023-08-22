@@ -1,4 +1,4 @@
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=F73BE0&size=35&center=true&vCenter=true&width=1000&lines=Olá,+Meu+Nome+é+Lucas+Mercer+Leniar;+:%29)]
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=2a3b59&size=35&center=true&vCenter=true&width=1000&lines=Olá,+Meu+Nome+é+Lucas+Mercer+Leniar;+:%29)]
 
   <p>
     
