@@ -2,10 +2,11 @@
 
   <p>
     
-     🔥 Desenvolvedor Web
+     🔥 Desenvolvedor
   
-     📚 Estou cursando Gestão em Tecnologia da Informação. Sou formado em vários cursos profissionalizantes Microlins,
-           fiz alguns projetos individuais e em equipe, inclusive atuando como suporte técnico.
+     📚 Estou atualmente focado na Licenciatura em Computação na UTFPR, após ter concluído cursos profissionalizantes
+          na Microlins. Com experiência em projetos individuais e em equipe, incluindo suporte técnico, estou comprometido
+          em ampliar meus conhecimentos e contribuir para os campos da tecnologia e da educação.
 
      🧠 O caminho para a melhoria começa com o desejo de crescer, a coragem de mudar e a perseverança para seguir adiante.
 
