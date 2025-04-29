@@ -1,62 +1,65 @@
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=2a3b59&size=35&center=true&vCenter=true&width=1000&lines=Olá,+Meu+Nome+é+Lucas+Mercer+Leniar;+:%29)]
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=2a3b59&size=35&center=true&vCenter=true&width=1000&lines=Olá,+Meu+Nome+é+Lucas+Mercer+Leniar;+Desenvolvedor+Web+e+Apaixonado+por+Tecnologia!)](https://www.lucasleniar.com.br)
 
-  <p>
-    
-     🔥 Desenvolvedor
-  
-     📚 Estou atualmente focado na Licenciatura em Computação na UTFPR, após ter concluído cursos profissionalizantes
-          na Microlins. Com experiência em projetos individuais e em equipe, incluindo suporte técnico, estou comprometido
-          em ampliar meus conhecimentos e contribuir para os campos da tecnologia e da educação.
+<p align="center">
+  🔥 Desenvolvedor focado em transformar ideias em soluções digitais.<br>
+  📚 Estudante de Licenciatura em Computação na UTFPR.<br>
+  🎯 Objetivo: Criar soluções tecnológicas que impactem positivamente a educação e a sociedade.<br>
+</p>
 
-     🧠 O caminho para a melhoria começa com o desejo de crescer, a coragem de mudar e a perseverança para seguir adiante.
+---
 
-     👨‍🎓 Seu potencial é ilimitado, e como você continua a se aprimorar e a crescer,
-          estou confiante de que seu impacto será notável e duradouro.
+### 🌐 Redes e Contatos:
 
-  </p>
+- 🌎 Site pessoal: [www.lucasleniar.com.br](https://www.lucasleniar.com.br)
+- 📧 Email: [lucasleniar@gmail.com](mailto:lucasleniar@gmail.com)
+- 📱 WhatsApp: [Fale comigo](https://wa.me/5542988869655)
+- 📸 Instagram: [@lucasmercerl](https://www.instagram.com/lucasmercerl/)
 
-## [💻 Veja Meu perfil Clicando aqui](https://www.instagram.com/lucasmercerl/)
+---
 
-<br>
+### 🚀 Principais Tecnologias:
 
-### Habilidades principais:
+![JavaScript](https://img.shields.io/badge/-JavaScript-0D1117?style=for-the-badge&logo=javascript&logoColor=yellow)
+![HTML5](https://img.shields.io/badge/-HTML5-0D1117?style=for-the-badge&logo=html5&logoColor=E34F26)
+![CSS3](https://img.shields.io/badge/-CSS3-0D1117?style=for-the-badge&logo=css3&logoColor=1572B6)
+![React](https://img.shields.io/badge/-React-0D1117?style=for-the-badge&logo=react)
+![Git](https://img.shields.io/badge/-Git-0D1117?style=for-the-badge&logo=git)
 
-![JAVASCRIPT](https://img.shields.io/badge/-Javascript-0D1117?style=for-the-badge&logo=JavaScript&logoColor=yellow&labelColor=0D1117)&nbsp;
-![HTML](https://img.shields.io/badge/-HTML-0D1117?style=for-the-badge&logo=HTML5&labelColor=0D1117)&nbsp;
-![CSS](https://img.shields.io/badge/-CSS-0D1117?style=for-the-badge&logo=CSS3&logoColor=1572B6&labelColor=0D1117)&nbsp;
-![React](https://img.shields.io/badge/-React-0D1117?style=for-the-badge&logo=react&labelColor=0D1117)&nbsp;
-![Git](https://img.shields.io/badge/-Git-0D1117?style=for-the-badge&logo=git&labelColor=0D1117)&nbsp;
+---
 
-### Ferramentas:
+### 🛠 Ferramentas:
 
-![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-0D1117?style=for-the-badge&logo=visual-studio-code&logoColor=007ACC&labelColor=0D1117)&nbsp;
+![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-0D1117?style=for-the-badge&logo=visual-studio-code&logoColor=007ACC)
+![GitHub](https://img.shields.io/badge/-GitHub-0D1117?style=for-the-badge&logo=github)
+![Linux](https://img.shields.io/badge/-Linux-0D1117?style=for-the-badge&logo=linux)
+![Windows](https://img.shields.io/badge/-Windows-0D1117?style=for-the-badge&logo=windows)
+![Microsoft Office](https://img.shields.io/badge/-Microsoft%20Office-0D1117?style=for-the-badge&logo=microsoft-office)
 
-<!-- ![Git](https://img.shields.io/badge/-Git-0D1117?style=for-the-badge&logo=git&labelColor=0D1117)&nbsp; -->
+---
 
-![GitHub](https://img.shields.io/badge/-GitHub-0D1117?style=for-the-badge&logo=github&labelColor=0D1117)&nbsp;
-![Windows](https://img.shields.io/badge/-Windows-0D1117?style=for-the-badge&logo=windows&labelColor=0D1117)&nbsp;
-![Microsoft-Office](https://img.shields.io/badge/-microsoft_office-0D1117?style=for-the-badge&logo=microsoft-office&labelColor=0D1117)&nbsp;
-![Linux](https://img.shields.io/badge/-Linux-0D1117?style=for-the-badge&logo=linux&labelColor=0D1117)&nbsp;
+### 🗄️ Banco de Dados e Backend:
 
-### Outros Conhecimentos:
+![MySQL](https://img.shields.io/badge/-MySQL-0D1117?style=for-the-badge&logo=mysql)
+![PHP](https://img.shields.io/badge/-PHP-0D1117?style=for-the-badge&logo=php)
+![Docker](https://img.shields.io/badge/-Docker-0D1117?style=for-the-badge&logo=docker)
 
-![MySQL](https://img.shields.io/badge/-mysql-0D1117?style=for-the-badge&logo=mysql&labelColor=0D1117)&nbsp;
-![Php](https://img.shields.io/badge/-php-0D1117?style=for-the-badge&logo=php&labelColor=0D1117)&nbsp;
-![Docker](https://img.shields.io/badge/-docker-0D1117?style=for-the-badge&logo=docker&labelColor=0D1117)&nbsp;
+---
 
-### Estudando no momento:
+### 📚 Atualmente estudando:
 
-![TypeScript](https://img.shields.io/badge/-TypeScript-0D1117?style=for-the-badge&logo=typescript&labelColor=0D1117&textColor=0D1117)&nbsp;
-![Node.JS](https://img.shields.io/badge/-Node.JS-0D1117?style=for-the-badge&logo=node.js&labelColor=0D1117&textColor=0D1117)&nbsp;
-![Python](https://img.shields.io/badge/-Python-0D1117?style=for-the-badge&logo=python&labelColor=0D1117&textColor=0D1117)&nbsp;
+![TypeScript](https://img.shields.io/badge/-TypeScript-0D1117?style=for-the-badge&logo=typescript)
+![Node.js](https://img.shields.io/badge/-Node.js-0D1117?style=for-the-badge&logo=node.js)
+![Python](https://img.shields.io/badge/-Python-0D1117?style=for-the-badge&logo=python)
 
-### Contatos:
+---
 
-<div style="display: inline_block">
-  
-<a href="mailto:lucasleniar@gmail.com" target="_blank" style="text-decoration:none;"><img align="center"   height="40" width="40" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTS0M6ggYz32UW39FkUpTPAqSnNOeCR9YDNZ5bN6iog1RE8sLUbsuzt8O-d02CowQ3pS3Q&usqp=CAU"></a>
-<a href="https://wa.me/5542988869655" target="_blank" style="text-decoration:none;"><img align="center"   height="40" width="40" src="https://logopng.com.br/logos/whatsapp-33.png"></a>
-  
+### 📊 GitHub Stats:
+
+<div align="center">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=lucasmercer&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lucasmercer&layout=compact&langs_count=7&theme=radical"/>
 </div>
 
-![](https://komarev.com/ghpvc/?username=lucasmercer)
+---
+
+![](https://komarev.com/ghpvc/?username=lucasmercer&color=green)
