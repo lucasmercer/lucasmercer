@@ -50,6 +50,9 @@
 ![TypeScript](https://img.shields.io/badge/-TypeScript-0D1117?style=for-the-badge&logo=typescript)
 ![Node.js](https://img.shields.io/badge/-Node.js-0D1117?style=for-the-badge&logo=node.js)
 ![Python](https://img.shields.io/badge/-Python-0D1117?style=for-the-badge&logo=python)
+![TICs](https://img.shields.io/badge/-TICs-0D1117?style=for-the-badge&logo=google&logoColor=white)
+![TDICs](https://img.shields.io/badge/-TDICs-0D1117?style=for-the-badge&logo=microsoft&logoColor=white)
+![ABP](https://img.shields.io/badge/-ABP--Project--Based--Learning-0D1117?style=for-the-badge&logo=project-diagram&logoColor=white)
 
 ---
 
